@@ -1,0 +1,6 @@
+{
+  "name": "Aura Weather",
+  "description": "A beautiful, real-time weather application with hourly and 7-day forecasts, featuring dynamic atmospheric backgrounds and AI-powered weather insights.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": []
+}
